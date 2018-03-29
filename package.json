@@ -41,13 +41,13 @@
     "babel-loader": "^8.0.0-beta",
     "file-loader": "^1.1.11",
     "html-webpack-plugin": "^3.1.0",
-    "mini-css-extract-plugin": "^0.2.0",
+    "mini-css-extract-plugin": "^0.3.0",
     "react-hot-loader": "^4.0.0",
     "rimraf": "^2.5.4",
     "url-loader": "^1.0.1",
     "webpack": "^4.3.0",
     "webpack-cli": "^2.0.13",
     "webpack-merge": "^4.1.2",
-    "webpack-serve": "^0.2.0"
+    "webpack-serve": "^0.3.0"
   }
 }
