@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "browsers": ["last 2 version", "firefox", "safari", "chrome"],
+        "node": "current"
+      }
+    ],
+    "@babel/stage-2",
+    "@babel/react"
+  ],
+  "plugins": [
+    //    "react-hot-loader/babel",
+    "@babel/plugin-transform-spread"
+  ]
+}
